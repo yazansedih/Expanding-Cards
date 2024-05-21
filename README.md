@@ -3,7 +3,13 @@
   <br />
   <br />
 
- ![GitHub repo size](https://img.shields.io/github/repo-size/yazansedih/Expanding-Cards) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/yazansedih/Expanding-Cards) ![NPM Version](https://img.shields.io/npm/v/npm) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yazansedih/Expanding-Cards/main)
+ ![GitHub repo size](https://img.shields.io/github/repo-size/yazansedih/Expanding-Cards) 
+ ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/yazansedih/Expanding-Cards) 
+ [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/yazansedih/Expanding-Cards/releases/tag/v1.0.0)
+ ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yazansedih/Expanding-Cards/main) 
+ ![GitHub issues](https://img.shields.io/github/issues/yazansedih/Expanding-Cards)
+ ![GitHub contributors](https://img.shields.io/github/contributors/yazansedih/Expanding-Cards)
+ ![GitHub All Releases](https://img.shields.io/github/downloads/yazansedih/Expanding-Cards/total)
  
 </div>  
 
